@@ -1,0 +1,41 @@
+.header-nonbs {
+  height: 412px;
+  background: url(http://cdn.morguefile.com/imageData/public/files/a/AcrylicArtist/01/l/1388604272daef5.jpg) no-repeat 50% 50%; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #fff;
+}
+
+.navbar{
+  background: #344152;
+  padding: 1em 0;
+  box-shadow: 3px 3px 5px -2px #333;
+}
+.navbar-default .navbar-nav > li > a{
+  color:#fff;
+}
+
+
+.footer-nonbs {
+  border-top: 1px solid #444;
+  padding-top: 20px;
+  margin-top: 20px;
+  color: #999
+}
+/**********************
+These styles just create a bit
+of extra space for the header
+ and the footer.
+**********************/
+a{
+  font-weight:bold;
+  font-size:1.6rem;
+}
+
+#games{
+
+margin-left: 200px;
+
+}
